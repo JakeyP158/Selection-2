@@ -1,4 +1,5 @@
 from random import randrange
+print('Abu woz ere')
 wrong = "Wrong you small brian"
 print("----Welcome to the Joke Machine----")
 joke = randrange(0, 4, 2)
