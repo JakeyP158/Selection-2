@@ -1,3 +1,7 @@
+"""Randomise the joke it tells, error on line 11 because answer is not defined
+"""
+
+
 from random import randrange
 wrong = "Wrong you small brian"
 print("----Welcome to the Joke Machine----")
